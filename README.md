@@ -8,6 +8,7 @@ Na saída será gerado um arquivo .pdf _"relatorio_carteira.pdf"_ com as seguint
 _Obs: A rentabilidade do ativo não utiliza o retorno mensal de dividendos apenas a valorização da ação / cota._
 
 **Vamos para um exemplo prático!**
+
 Escolhi ao acaso 2 ações de cada um dos 5 setores perenes do mercado financeiro brasileiro e configurei o input do programa:
 
 _Obs:_
@@ -32,10 +33,12 @@ Logo, utilizando a análise acima, podemos usar a lógica de aplicar maior peso 
 - A perda foi apenas de R$ 150,00 comparada aos quase R$ 1.000,00 de prejuízo da simulação anterior.
 
 **O aprendizado com o projeto foi:**
-- A manipulação de listas, dataframes e bibliotecas.
-- Construção de funções para melhor organização.
-- Uso da biblioteca FPDF para gerar arquivos em pdf.
--  
+
+- A manipulação de listas, dataframes, bibliotecas e gráficos.
+- A construção de funções para melhor organização.
+- O uso da biblioteca FPDF para montar a estrutura visual dos dados gerados em arquivo pdf.
+- O desenvolvimento de fórmulas para calcular os indicadores financeiros.
+- A arquitetura de um código interativo e mais limpo possível.
 
 
 
