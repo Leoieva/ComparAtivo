@@ -14,7 +14,12 @@ Na saída será gerado um arquivo .pdf com os seguintes análises:
 
 **Exemplo prático**
 
-Pesquisei 2 ações de cada um dos 5 setores perenes do mercado brasileiro pagaram dividendos entre 05/2024 e 05/2025 (data atual) e testei-as no programa para validar se os outros indicadores desempenhavam bem além do bom resultado nos dividendos. 
+Pesquisei ao acaso 2 ações de cada um dos 5 setores perenes do mercado financeiro brasileiro e configurei o input do programa:
+
+![image](https://github.com/user-attachments/assets/62dbbfa3-808a-4853-8598-b3d651134649)
+
+selecionei o período de 1 ano: 05/2024 e 05/2025 (data atual).
+Em seguida, sim no programa para validar se os outros indicadores desempenhavam bem além do bom resultado nos dividendos. 
 Ativos = 
 E de forma rápida e interativa, consegui tirar conclusões sobre cada ativo:
 
