@@ -10,7 +10,10 @@ _Obs: A rentabilidade do ativo não utiliza o retorno mensal de dividendos apena
 **Exemplo prático**
 
 Pesquisei ao acaso 2 ações de cada um dos 5 setores perenes do mercado financeiro brasileiro e configurei o input do programa:
-_Setores: Banco, Energia, Saneamento, Materiais básicos e Saúde_
+_Obs:_
+- _Setores: Banco, Energia, Saneamento, Materiais básicos e Saúde_
+- _Pesos: valor igual para todos os 10 ativos_
+
 
 ![image](https://github.com/user-attachments/assets/62dbbfa3-808a-4853-8598-b3d651134649)
 
