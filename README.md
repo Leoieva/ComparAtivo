@@ -17,9 +17,13 @@ _Setores: Banco, Energia, Saneamento, Materiais básicos e Saúde_
 E após a visualização do relatório em pdf gerado, de forma rápida e interativa, consegui tirar as seguintes conclusões sobre cada ativo:
 - O setor mais arriscado é Saúde e menos arriscado é Banco.
 - Os ativos com maior rentabilidade foram a Sabesp (Saneamento) com 24% ao ano e a Cemig (Energia) com quase 20% ao ano.
+- Nenhum setor ou ação se correlacionam fortemente ao chegar no valor 1.0.
+- Os setor Banco e Saneamento foram os mais rentáveis acima do Índice Ibovespa.
 - A carteira apresenta risco muito baixo (menor que 50%), porém a sua média de retorno ficou em -0.84% devido a desvalorização significativa da Kablin, Hapvida e RD Saúde.
 
-**O foco
+**O foco do projeto é deixar uma tomada de decisão financeira mais sólida.**
+Logo, utilizando a análise acima, podemos usar a lógica de aplicar maior peso nos setores mais rentáveis.
+Resultado: 
 
 
 
