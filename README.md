@@ -13,6 +13,7 @@ Pesquisei ao acaso 2 ações de cada um dos 5 setores perenes do mercado finance
 _Obs:_
 - _Setores: Banco, Energia, Saneamento, Materiais básicos e Saúde_
 - _Pesos: valor igual para todos os 10 ativos_
+- _Capital investido: R$ 10.000,00_
 
 ![image](https://github.com/user-attachments/assets/62dbbfa3-808a-4853-8598-b3d651134649)
 
