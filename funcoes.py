@@ -37,7 +37,8 @@ def graf_evolucao_relativa(dataframe, largura, altura, caminho_imagem="grafico_e
     for coluna in dataframe.columns:
         preco_inicial = dataframe[coluna].iloc[0]
         evolucao = (dataframe[coluna] / preco_inicial - 1) * 100
-        plt.plot(dataframe.index, evolucao, label=coluna)
+        cor = 'black' if coluna.upper() == '^BVSP' else None
+        plt.plot(dataframe.index, evolucao, label=coluna, color=cor)
 
     plt.title("Evolução do Preço por Ação")
     plt.xlabel("Data")

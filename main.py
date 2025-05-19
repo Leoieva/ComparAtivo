@@ -11,18 +11,17 @@ Diversos: 'vivt3.sa', 'b3sa3.sa', 'mrfg3.sa', 'jbss3.sa', 'petr4.sa'
 
 inicio = data_inicio(2024, 4, 1)
 fim = data_fim(2025, 4, 1)
-ativos_indices = ['brco11.sa', 'hglg11.sa', 'xplg11.sa', 'vilg11.sa', 'rbrl11.sa', 'blmg11.sa']
-
-# Distribuir o peso de cada ativo conforme sua escolha até somar em 1.0
+ativos_indices = ['itub4.sa', 'bbas3.sa', 'taee4.sa', 'cmig4.sa', 'sbsp3.sa', 'sapr11.sa','vale3.sa', 'klbn4.sa', 'hapv3.sa', 'radl3.sa']
+total_ativos_indices = 10
+# Opção 1 (Peso) - Distribuir o peso de cada ativo conforme sua escolha até somar em 1.0
 # peso = []
 
-# Distribuir o peso de cada ativo de forma igual
-total_ativos_indices = 6
+# Opção 2 (Peso) - Distribuir o peso de cada ativo de forma igual
 pesos = [1/total_ativos_indices] * total_ativos_indices
-
-capital = 12000
+capital = 10000
 
 df = historico_ativo(ativos_indices, inicio, fim)
 df_e_ibov = historico_ativo(ativos_indices + ['^BVSP'], inicio, fim)
 
 gerar_relatorio_pdf(df, df_e_ibov, pesos, capital, inicio, fim)
+
