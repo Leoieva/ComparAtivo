@@ -4,7 +4,7 @@ Utilizando o **Python** para calcular e exibir a rentabilidade, o risco e o dese
 
 A entrada de dados é como simular uma carteira, é preciso informar o nome de cada ativo, o período de tempo, o capital investido e o peso de cada investimento.
 
-Na saída será gerado um arquivo .pdf com os seguintes análises: Taxa de retorno de cada ativo e da carteira, Risco de cada ativo e carteira Resultado do peso, do valor aplicado em cada ativo, Correlação entre ativos, Gráfico da evolução do preço da ação / cota VS Índice Ibovespa.    
+Na saída será gerado um arquivo .pdf _"relatorio_carteira.pdf"_ com os seguintes análises: Taxa de retorno de cada ativo e da carteira, Risco de cada ativo e carteira Resultado do peso, do valor aplicado em cada ativo, Correlação entre ativos, Gráfico da evolução do preço da ação / cota VS Índice Ibovespa.    
 _Obs: A rentabilidade do ativo não utiliza o retorno mensal de dividendos apenas a valorização da cota._
 
 **Exemplo prático**
